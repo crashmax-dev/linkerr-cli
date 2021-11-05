@@ -11,10 +11,6 @@ npm install linkerr-cli -g
 ## Usage
 
 ```
-npx linkerr -u https://github.com
-```
-
-```
 $ linkerr --help
 
   Usage:
